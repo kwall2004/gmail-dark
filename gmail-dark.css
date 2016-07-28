@@ -1,0 +1,33 @@
+@-moz-document domain("mail.google.com") {
+.nH, div[role=banner] > div > div, .l2, .iY .Bu, .aeJ, .wn {
+    background-color: #333;
+}
+
+.TO .n0, .vC, .n4, .z .Di .Dj, .yO, .ha, .gD, .hx .gH, .hx, .h0, .anQ, .zE {
+    color: #ddd;
+}
+
+.yO {
+    background-color: inherit;
+}
+
+.iY .md, .iY .l8, .iY .l6, .go, .gt a {
+    color: #666;
+}
+
+.gb_Rb, .J-KU .aj2, .yE, .xL, .g1, .gZ, .ank, .anl, .Gq, .anh .ane {
+    -webkit-filter: invert();
+}
+
+.vD, .ii {
+    color: black;
+}
+
+.ii {
+    background-color: white;
+}
+
+.zE {
+    background-color: black;
+}
+}
